@@ -1,0 +1,17 @@
+CounterComponentExposedType.prototype.render = function () {
+  const that = this;
+    return that._c('div', [that._c('button', {
+      staticClass: "btn orange", on: {
+        "click": function ($event) {
+          that.exp$0()
+        }
+      }
+    }, [that._v("\n    Press me!\n  ")]), that._v(" "), that._c('button', {
+      staticClass: "btn grey", on: {
+        "click": function ($event) {
+          that.exp$1()
+        }
+      }
+    }, [that._v("\n    Reset\n  ")]), that._v(" "),
+      that._c('p', [that._v("\n    You pressed " + that._s(that.exp$2()) + " times\n  ")])])
+};

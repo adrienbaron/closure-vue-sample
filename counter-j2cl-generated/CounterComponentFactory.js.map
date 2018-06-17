@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"CounterComponentFactory.impl.java.js",
+"lineCount":127,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;MAiBmB,uB;;;;EAAA,W;IAAAA,Q;;;;;;;;SAIV,S;IAAAC,kC;IAAAA,8C;IAAAA,iG;IAAAA,iB;;;;;;;;EAAA,oF;IAAAC,0E;;;;;;;EAIQ,Q;IACbC,IAAsCC,gBAAtCD,kD;IACAA,uP;;;;;;;SAGoC,O;IAAAE,kC;IACpCA;MACEA,wJADFA;MAEEA,qMAFFA;MAGEA,6HAHFA;K;IAIAA,yH;;;;;;;SAjBF,4F;IAAAC,8J;;;;;;;;SAAA,4F;IAAAC,+J;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IADiBC,8B;;;;;;;;;AAAA;;",
+"sources":["CounterComponentFactory.java"],
+"names":["com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<synthetic: ctor_js>","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<synthetic: ctor_create>","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<init>","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.init","componentOptions","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.get","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<synthetic: getter>","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<synthetic: setter>","com.axellience.vuegwtdemo.client.components.counter.CounterComponentFactory.<clinit>"]
+}

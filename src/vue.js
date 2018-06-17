@@ -1,1 +1,1 @@
-export const Vue = window['Vue'];
+export const Vue = window["Vue"];

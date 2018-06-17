@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"CounterComponent.impl.java.js",
+"lineCount":81,
+"mappings":"A;;;;;;;;;;;;;;;;;MAMa,gB;;;;EAAA,W;IAAAA,Q;IAAAA;kG;;;;;;;;SAAA,S;IAAAC,2B;IAAAA,uC;IAAAA,0F;IAAAA,iB;;;;;;;;EAAA,6E;IAAAC,iC;IAAAA,mF;;;;;;;EAAA,2E;IAEXA,8F;;;;;;;;;;;;;;;;;;;;;;;;;;IAFWC;",
+"sources":["CounterComponent.java"],
+"names":["com.axellience.vuegwtdemo.client.components.counter.CounterComponent.<synthetic: ctor_js>","com.axellience.vuegwtdemo.client.components.counter.CounterComponent.<synthetic: ctor_create>","com.axellience.vuegwtdemo.client.components.counter.CounterComponent.<init>","com.axellience.vuegwtdemo.client.components.counter.CounterComponent.<clinit>"]
+}

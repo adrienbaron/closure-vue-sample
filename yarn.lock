@@ -98,6 +98,12 @@ replace-ext@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/replace-ext/-/replace-ext-1.0.0.tgz#de63128373fcbf7c3ccfa4de5a480c45a67958eb"
 
+rollup-plugin-alias@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-alias/-/rollup-plugin-alias-1.4.0.tgz#120cba7c46621c03138f0ca6fd5dd2ade9872db9"
+  dependencies:
+    slash "^1.0.0"
+
 rollup-plugin-google-closure-compiler@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/rollup-plugin-google-closure-compiler/-/rollup-plugin-google-closure-compiler-0.1.0.tgz#c577ab25b420e3d5a6bc6b9ab7b5c2b8c2fb1cdd"
@@ -108,6 +114,10 @@ rollup-plugin-google-closure-compiler@^0.1.0:
 safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
+
+slash@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
 
 source-map@^0.5.1:
   version "0.5.7"
@@ -155,3 +165,7 @@ vinyl@^2.0.1:
     cloneable-readable "^1.0.0"
     remove-trailing-separator "^1.0.1"
     replace-ext "^1.0.0"
+
+vue@^2.5.16:
+  version "2.5.16"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.16.tgz#07edb75e8412aaeed871ebafa99f4672584a0085"

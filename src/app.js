@@ -1,16 +1,4 @@
-import {Vue} from './vue';
+import { Vue } from './vue';
+import CounterComponentExposedType from './counter-component-exposed-type';
 
-new Vue({
-    'el': '#counter',
-    'data': {
-        'counter': 10
-    },
-    'template': `
-<div>
-    {{ counter }}
-    <div>
-        <button @click="counter++">Add 1 to value</button>
-        <button @click="counter = 0">Reset</button>
-    </div>
-</div>`
-});
+const el = new Vue(new CounterComponentExposedType().getOptions());

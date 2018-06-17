@@ -3,6 +3,10 @@
     "build": "rollup --config"
   },
   "dependencies": {
-    "rollup-plugin-google-closure-compiler": "^0.1.0"
+    "rollup-plugin-google-closure-compiler": "^0.1.0",
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "rollup-plugin-alias": "^1.4.0"
   }
 }
